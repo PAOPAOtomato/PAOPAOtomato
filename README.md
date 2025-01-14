@@ -44,8 +44,8 @@ Welcome to my GitHub! I'm a passionate software engineer and computer scientist 
 
 ## 📫 Let's Connect!
 
-- **GitHub**: (https://github.com/PAOPAOtomato)  
-- **LinkedIn**: (https://www.linkedin.com/in/ray-sun-b15b75238/)  
+- **GitHub**: https://github.com/PAOPAOtomato
+- **LinkedIn**: https://www.linkedin.com/in/ray-sun-b15b75238/
 - **Email**: arthurpondragon1231@gmail.com
 
 ---
