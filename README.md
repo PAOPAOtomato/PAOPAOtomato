@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate software engineer and computer scientist 
 
 ## 🌟 About Me
 
-- 🎓 **Education**: Pursuing a graduate degree in Computer Science and Engineering, with a strong foundation in machine learning, artificial intelligence, and software development.
+- 🎓 **Education**: Current on a graduate degree in Computer Science and Engineering, with a strong foundation in machine learning, artificial intelligence, and software development.
 - 💻 **Interests**:
   - **AI & Machine Learning**: From explainable AI (XAI) to generative AI, I'm fascinated by creating systems that are both powerful and interpretable.  
   - **Computer Vision**: Building systems that can "see" and "understand," such as AI-powered surveillance and object detection.  
